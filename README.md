@@ -1,3 +1,15 @@
+# 산리오 웹사이트의 메인페이지를 클론하여 반응형 웹 디자인을 구현
+#### 추가적으로 CSS 애니메이션 및 Canvas 구현하기
+<br/>
+블로깅링크: https://velog.io/@hihijin/HTMLCSS-%EC%8B%AC%ED%99%94-%EB%B0%98%EC%9D%91%ED%98%95-%EC%9B%B9-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0
+
+![ezgif com-gif-maker](https://github.com/hihijin/responsive-web-practice/assets/117073214/d3195968-e3ea-47e9-ba11-6b40140a60aa)
+
+<br/>
+
+---
+
+<br/>
 # HTML/CSS 심화 과제
 - HTML/CSS 심화 과제는 2개의 과제가 주어져 있습니다.
 - 해당 레포지토리를 `fork`한 후, 페어와 과제를 진행한 뒤 `pull request`를 통해 과제를 2번 제출합니다.
